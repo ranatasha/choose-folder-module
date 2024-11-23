@@ -21,4 +21,11 @@ export default defineConfig({
       '@components': fileURLToPath(new URL('./src/shared/components', import.meta.url)),
     },
   },
+  css: {
+    preprocessorOptions: {
+      scss: {
+        api: 'modern-compiler', // or "modern", "legacy"
+      },
+    },
+  },
 })
