@@ -12,7 +12,7 @@ export const useFolderNodesStore = defineStore('FolderNodes', () => {
 
   const fetchImitation = () => {
     isLoading.value = true;
-    return new Promise( (resolve) => {
+    return new Promise((resolve) => {
       setTimeout(() => {
         children.value = structuredClone(mockFolders);
         resolve();

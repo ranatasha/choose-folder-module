@@ -1,9 +1,8 @@
 # Компонент выбора папки с модальным окном
 
-#### Стек: 
-Vue.js 3 (Composition API), Typescript, Bootstrap, Pinia, Vue-Router
+**Стек:** Vue.js 3 (Composition API), Typescript, Bootstrap, Pinia, Vue-Router
 
-Реализовано в рамках тестового задания
+*Реализовано в рамках тестового задания*
 
 ## Project Setup and Run
 
