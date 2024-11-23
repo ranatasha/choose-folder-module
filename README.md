@@ -2,14 +2,14 @@
 
 Реализовано в рамках тестового задания
 
-## Project Setup
+## Project Setup and Run
 
+### Установка зависимостей:
 ```sh
 npm i
 ```
 
-### Compile and Hot-Reload for Development
-Запустить проект с помощью Vite можно, выполнив одну из команд:
+### Запуск проекта с помощью Vite:
 ```sh
 npm run serve
 ```
