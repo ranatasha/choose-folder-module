@@ -1,6 +1,7 @@
 # Компонент выбора папки с модальным окном
 
-**Стек:** Vue.js 3 (Composition API), Typescript, Bootstrap, Pinia, Vue-Router
+**Стек:** Vue.js 3 (Composition API), Typescript, Bootstrap, Vue-Router, Pinia
+Структура проекта: используется методолгия Feature-Sliced Design (FSD)
 
 *Реализовано в рамках тестового задания*
 
