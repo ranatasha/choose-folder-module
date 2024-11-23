@@ -2,7 +2,6 @@
   <div class="h-100 d-flex flex-row align-items-center justify-content-center">
     <div class="input-group mb-3 rounded w-50">
       <BaseInput
-        class="fw-bold"
         :value="inputValue || null"
         placeholder="Выберите папку"
         disabled

@@ -19,7 +19,7 @@
             Выбрана:
           </div>
           <BaseInput
-            class="w-100 fw-bold"
+            class="w-100 text-decoration-underline"
             :value="selectedFolderName || null"
             placeholder="Не выбрано"
             disabled
